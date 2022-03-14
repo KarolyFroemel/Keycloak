@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="wildfly-opentelemetry-26.0.0.Final">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/org/wildfly/extension/opentelemetry/main/wildfly-opentelemetry-26.0.0.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

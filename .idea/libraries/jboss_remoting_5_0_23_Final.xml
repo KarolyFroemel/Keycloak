@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jboss-remoting-5.0.23.Final">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/org/jboss/remoting/main/jboss-remoting-5.0.23.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jboss-ejb-client-4.0.44.Final">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/org/jboss/ejb-client/main/jboss-ejb-client-4.0.44.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

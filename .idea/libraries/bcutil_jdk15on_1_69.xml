@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="bcutil-jdk15on-1.69">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/org/bouncycastle/bcutil/main/bcutil-jdk15on-1.69.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

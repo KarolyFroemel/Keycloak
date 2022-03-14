@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="byte-buddy-1.11.12">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/net/bytebuddy/main/byte-buddy-1.11.12.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

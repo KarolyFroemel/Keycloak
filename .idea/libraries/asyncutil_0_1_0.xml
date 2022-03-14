@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="asyncutil-0.1.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/com/ibm/async/asyncutil/main/asyncutil-0.1.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
