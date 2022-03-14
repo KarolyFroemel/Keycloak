@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.15.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-16.1.0/modules/system/layers/base/org/apache/logging/log4j/api/main/log4j-api-2.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
